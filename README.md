@@ -1,2 +1,2 @@
 # Car-game
-Just a simple 2D car game 
+Trying to make a simple 2D car game, still in progress...
