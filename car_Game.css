@@ -1,40 +1,38 @@
-body{
-    display:flex;
-    background-color: black;
-}
-
-.outer_Body{
-    min-height:700px ;
-    display:flex;
+.container
+{
+    display: flex;
     justify-content: center;
-    
-    border: 2px solid tomato;
-    height:700px;
-    width:500px;
-    position: absolute; 
-    top: 50%;
-    left: 50%; 
-    transform: translate(-50%, -50%); 
-    background-color: white;
+    align-items: center;
 }
-
-.green_Car{
-    position: absolute;
-    height: 150px;
-    background-color:green;
-    border:1px solid black;
-    width:75px;
-    margin-top: 550px;
-    left:0px;
-
-    
+.body{
+    position: relative;
+    border:2px solid red;
+    height:680px;
+    width:700px;
+    background-color: black;
+    overflow: hidden;
 }
-
 
 .red_Car{
-    height: 150px;
+    position: absolute;
+    height: 100px;
+    width: 50px;
     background-color:red;
-    border:1px solid black;
-    width:75px;
-
+    border: 2px solid white;
+    flex:inline-block;
 }
+
+.blue_Car{
+    margin-top: 575px;
+    position: absolute;
+    
+    height: 100px;
+    width: 50px;
+    background-color: blue;
+    border: 2px solid white;
+    margin-left: 50px;
+    flex:inline-block;
+    
+}
+
+
