@@ -17,9 +17,3 @@ Play the game live [here](https://aashish-kumar77.github.io/Car-game/)! (Note: F
 - A web browser (e.g., Chrome, Firefox, or Edge).
 - No additional software needed to play the live version!
 
-### Running Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Aashish-kumar77/Car-game.git
-
-  #### This "README" is AI Generated
