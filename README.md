@@ -10,6 +10,7 @@ Play the game live [here](https://aashish-kumar77.github.io/Car-game/)! (Note: F
 - Simple graphics and styling using CSS.
 - Interactive gameplay with JavaScript.
 - (Add more features as you implement them, e.g., "Obstacle avoidance," "Score tracking.")
+- works in Laptop & Desktop, not in mobile's
 
 ## Getting Started
 
